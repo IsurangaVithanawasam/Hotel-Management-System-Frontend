@@ -14,7 +14,7 @@ const HomePage = () => {
         <div className="home">
             <section>
                 <header className="header-logo">
-                    <img src="./assets/images/hotel.webp" alt="Pearl Hotel" className="header-image" />
+                    <img src="./assets/images/hotel.png" alt="Pearl Hotel" className="header-image" />
                     <div className="overlay"></div>
                     <div className="animated-texts overlay-content">
                         <h1>
